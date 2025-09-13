@@ -35,3 +35,6 @@ linspace = np.linspace()
 
 print(range_array)
 print(linspace)
+
+
+
